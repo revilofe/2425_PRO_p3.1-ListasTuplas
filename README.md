@@ -2,7 +2,7 @@
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
-[U3: 0. Cadenas](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica000/)
+[U3: 1. Listas y tuplas](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica001/)
 
 ---
 
