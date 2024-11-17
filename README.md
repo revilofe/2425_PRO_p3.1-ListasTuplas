@@ -1,4 +1,4 @@
-# Práctica 2.2: Sentencias iterativas
+# Práctica 3.1: Listas y tuplas
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
